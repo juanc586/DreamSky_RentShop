@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreamSky_RentShop", "DreamSky_RentShop.csproj", "{22EC04F2-5485-4BAD-A144-4E058E85626A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22EC04F2-5485-4BAD-A144-4E058E85626A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EC04F2-5485-4BAD-A144-4E058E85626A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EC04F2-5485-4BAD-A144-4E058E85626A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EC04F2-5485-4BAD-A144-4E058E85626A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C669E48-175C-4B9E-8A42-EAECD2B74722}
+	EndGlobalSection
+EndGlobal
