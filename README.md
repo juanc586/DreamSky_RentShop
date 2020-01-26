@@ -14,5 +14,6 @@ Juan Carlos
 Semana 1  
 Diagrama de flujo del negocio  
 Casos de uso  
-SRS  
-Diagrama de clases
+Diccionario de datos  
+Diagrama de clases  
+SRS
