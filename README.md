@@ -9,3 +9,10 @@ Dionisio Polanco
 Hector Amarante  
 Wilson Vargas  
 Juan Carlos
+
+# To-Do
+Semana 1  
+Diagrama de flujo del negocio  
+Casos de uso  
+SRS  
+Diagrama de clases
